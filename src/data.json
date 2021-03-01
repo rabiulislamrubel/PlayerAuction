@@ -1,0 +1,114 @@
+[
+    {
+      "_id": "####01",
+      "salary": 40000,
+      "picture": "https://i.ibb.co/9wDR5SP/Jun-18-2016-Foxborough-MA-USA-Argentina-midfielder-Lionel-Messi-10-on-the-field-before-their-quarter.jpg",
+      "name": "Lionel Messi",
+      "gender": "male",
+      "phone": "+1 (844) 489-3550"
+    },
+    {
+      "_id": "####02",
+      "salary": 2000,
+      "picture": "https://i.ibb.co/z8v63LD/meradona.jpg",
+      "name": "Diego Maradona",
+      "gender": "male",
+      "phone": "+1 (809) 572-3763"
+    },
+    {
+      "_id": "####03",
+      "salary": 5600,
+      "picture": "https://i.ibb.co/0yw1577/Cristiano-Ronaldo.jpg",
+      "name": "Cristiano Ronaldo",
+      "gender": "male",
+      "phone": "+1 (877) 430-3843"
+    },
+    {
+      "_id": "####04",
+      "salary": 5000,
+      "picture": "https://i.ibb.co/LrnNMsJ/bappe.jpg",
+      "name": "Kylian Mbappé",
+      "gender": "male",
+      "phone": "+1 (827) 438-2676"
+    },
+    {
+      "_id": "####05",
+      "salary": 4000,
+      "picture": "https://i.ibb.co/xzyCG2q/neymar.jpg",
+      "name": "Neymar",
+      "gender": "male",
+      "phone": "+1 (845) 501-3454"
+    },
+    {
+      "_id": "####06",
+      "salary": 10000,
+      "picture": "https://i.ibb.co/vwSW8Fb/ozil.jpg",
+      "name": "Mesut Özil",
+      "gender": "male",
+      "phone": "+1 (825) 590-3361"
+    },
+    {
+      "_id": "####07",
+      "salary": 8000,
+      "picture": "https://i.ibb.co/WHD0h19/Pele.jpg",
+      "name": "Pelé",
+      "gender": "male",
+      "phone": "+1 (912) 576-2250"
+    },
+    {
+        "_id": "####08",
+        "salary": 2000,
+        "picture": "https://i.ibb.co/sJNr15p/pogba.jpg",
+        "name": "Paul Pogba",
+        "gender": "male",
+        "phone": "+1 (912) 576-2250"
+      },
+      {
+        "_id": "####9",
+        "salary": 1500,
+        "picture": "https://i.ibb.co/FJXWh4G/salah.jpg",
+        "name": "Mohamed Salah",
+        "gender": "male",
+        "phone": "+1 (912) 576-2250"
+      },
+      {
+        "_id": "####10",
+        "salary": 1800,
+        "picture": "https://i.ibb.co/NtjRmws/xavi.jpg",
+        "name": "Xavi",
+        "gender": "male",
+        "phone": "+1 (912) 576-2250"
+      },
+      {
+        "_id": "####11",
+        "salary": 3000,
+        "picture": "https://i.ibb.co/cXk1LMN/iniesta.jpg",
+        "name": "Andrés Iniesta",
+        "gender": "male",
+        "phone": "+1 (912) 576-2250"
+      },
+      {
+        "_id": "####12",
+        "salary": 5600,
+        "picture": "https://i.ibb.co/NKb3p3T/ramos.jpg",
+        "name": "Sergio Ramos",
+        "gender": "male",
+        "phone": "+1 (912) 576-2250"
+      },
+      {
+        "_id": "####13",
+        "salary": 7600,
+        "picture": "https://i.ibb.co/bgR0D4k/Ronaldo-Brazil.jpg",
+        "name": "Ronaldo",
+        "gender": "male",
+        "phone": "+1 (912) 576-2250"
+      },
+      {
+        "_id": "####14",
+        "salary": 9800,
+        "picture": "https://i.ibb.co/YjtzDQ9/Zinedine-Zidane.jpg",
+        "name": "Zinedine Zidane",
+        "gender": "male",
+        "phone": "+1 (912) 576-2250"
+      }
+  ]

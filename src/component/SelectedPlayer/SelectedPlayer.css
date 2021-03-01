@@ -1,0 +1,9 @@
+.selected-player {
+  background-color: #999;
+  padding: 30px;
+}
+.singel-details {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}

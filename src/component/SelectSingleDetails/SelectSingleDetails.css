@@ -1,0 +1,15 @@
+.select-single {
+  width: 40%;
+  border: 1px solid;
+  margin: 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  border-radius: 10px;
+}
+.select-single img {
+  width: 100px;
+  height: 100px;
+}
